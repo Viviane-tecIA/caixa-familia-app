@@ -1,3 +1,4 @@
+
 # 📱 Projeto CAIXA Família
 
 Este é um protótipo de aplicativo para gestão financeira familiar, focado em ajudar mães e pais a organizarem o orçamento doméstico. Projeto desenvolvido durante minha trilha na **DIO** (Nível 7).
@@ -9,5 +10,5 @@ A interface visual foi gerada utilizando IA com o seguinte comando:
 
 ## 🚀 Objetivo
 Transformar este design em um aplicativo funcional utilizando JavaScript e React Native no meu futuro computador.
-​  
-​![Interface do App](Screenshot_20260207_044647_Chrome (1).jpg)
+
+![Interface do App](Screenshot_20260207_044647_Chrome (1).jpg)
