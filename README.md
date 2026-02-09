@@ -11,3 +11,4 @@ A interface visual foi gerada utilizando IA com o seguinte comando:
 ## 🚀 Objetivo
 Transformar este design em um aplicativo funcional utilizando JavaScript e React Native no meu futuro computador.
 
+https://github.com/Viviane-tecIA/caixa-familia-app/blob/main/Screenshot_20260207_044647_Chrome%20(1).jpg
