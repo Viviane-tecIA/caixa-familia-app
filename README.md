@@ -11,4 +11,4 @@ A interface visual foi gerada utilizando IA com o seguinte comando:
 ## 🚀 Objetivo
 Transformar este design em um aplicativo funcional utilizando JavaScript e React Native no meu futuro computador.
 
-​![App](Screenshot_20260207_044647_Chrome (1).jpg)
+​![App(Screenshot_20260207_044647_Chrome (1).jpg)
